@@ -1,0 +1,6 @@
+*.wav
+*.png
+goodones/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
